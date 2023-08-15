@@ -1,9 +1,58 @@
+<img src="assets/Sushiman-Screens.png" alt="Sushiman Screens" />
+
 # Sushiman 🍣
 
-Bem-vindo à Landing Page **Sushiman: Sinta o Sabor da Comida Japonesa!**
+## Overview
 
-É um convite irresistível para explorar os deliciosos sabores da culinária japonesa. Uma imagem de um prato artisticamente disposto, repleto de sushis coloridos e sashimis frescos, domina o centro da página. O slogan "Sinta o Sabor da Comida Japonesa" está em destaque logo acima, evocando uma sensação de autenticidade e paixão pela cozinha oriental.
+Welcome to Landing Page **Sushiman: Fast the taste of Japanese food!**
 
-Os visitantes são convidados a embarcar em uma jornada gastronômica única. Uma galeria de imagens interativas exibe uma variedade de pratos japoneses, desde os tradicionais nigiris até as criações inovadoras do nosso chef.
+<img src="assets/sushiman-macbook-without-frame.png" alt=""/>
 
-A Landing Page Sushiman é projetada para envolver os visitantes em uma jornada visual e sensorial pela culinária japonesa. Com imagens tentadoras, informações claras sobre serviços e um toque de autenticidade.
+###
+
+It is an irresistible invitation to explore the delicious flavors of Japanese cuisine. An image of an artistic dish, full of colorful sushi and fresh sashimi, dominates the center of the page. The slogan "feels the taste of Japanese food" is highlighted above, evoking a feeling of authenticity and passion for oriental cuisine.
+
+<img src="assets/sushiman-macbook-without-frame-2.png" alt=""/>
+
+###
+
+Visitors are invited to board a single gastronomic journey. A gallery of interactive images displays a variety of Japanese dishes, from the traditional Nigiris to the innovative creations of our chef.
+
+<img src="assets/sushiman-macbook-without-frame-3.png" alt=""/>
+
+###
+
+<img src="assets/sushiman-macbook-without-frame-4.png" alt=""/>
+<img src="assets/sushiman-macbook-without-frame-5.png" alt=""/>
+
+Landing Page Sushiman is designed to involve visitors on a visual and sensory journey by Japanese cuisine. With tempting images, clear service information and a touch of authenticity.
+
+<img src="assets/sushiman-macbook-without-frame-6.png" alt=""/>
+
+You can access the site on this [link](https://japanese-sushi-landing-page.vercel.app).
+
+## Stack used:
+
+**Project Manager:** ClickUp;
+
+**Front-end:** HTML5, CSS3, JavaScript;
+
+**Libraries:** <a href="https://michalsnik.github.io/aos/">AOS(Animate On Scroll)</a>.
+
+### Tools:
+
+IDE: VSCode;
+
+APP Host: Vercel;
+
+## Repo made by:
+
+Diogo Silva ([@w4xdgsilva](https://github.com/w4xdgsilva))
+
+## Learnings
+
+In developing the "Sushiman" project, I was able to improve my CSS skills and learn how to use the animation library to. I faced challenges by synchronizing animations with the user's scroll and creating a responsive image gallery that kept a quick performance. In addition, making the responsive landing page on different devices was an additional challenge that required me to explore flexible layout techniques and adapt visual elements. In the end, this experience not only resulted in a visually attractive landing page, but also boosted my growth as a developer.
+
+## Credits
+
+[Adrian Hajdin - JS Mastery](https://github.com/adrianhajdin)
