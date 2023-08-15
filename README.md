@@ -4,7 +4,7 @@
 
 ## Overview
 
-Welcome to Landing Page **Sushiman: Fast the taste of Japanese food!**
+Welcome to Landing Page **Sushiman: Feel the taste of Japanese food!**
 
 <img src="assets/sushiman-macbook-without-frame.png" alt=""/>
 
